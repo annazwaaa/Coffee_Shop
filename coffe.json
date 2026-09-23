@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nama": "Cappuccino",
+    "harga": 25000,
+    "deskripsi": "Espresso dengan steamed milk dan milk foam"
+  },
+  {
+    "id": 2,
+    "nama": "Caffe Latte",
+    "harga": 28000,
+    "deskripsi": "Espresso dengan susu steamed"
+  },
+  {
+    "id": 3,
+    "nama": "Americano",
+    "harga": 20000,
+    "deskripsi": "Espresso dengan tambahan air"
+  }
+]
